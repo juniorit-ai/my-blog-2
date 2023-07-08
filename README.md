@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `npx create-react-app my-blog --template typescript`
 
-## Setup project
+## Project setup
 
 ```bash
 git clone https://github.com/junirit-ai/my-blog.git
