@@ -1,5 +1,8 @@
 # my-blog
- My blog: I learned how to create a blog webiste from juniorit.ai, despite having no prior coding experience.
+
+### JuniorIT.AI - Student project template
+
+#### Becoming a full stack developer without any coding experience with JuniorIT.AI.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) by command below
 
