@@ -1,8 +1,8 @@
 # my-blog
 
-### JuniorIT.AI - Student project template
+#### Becoming a full stack developer without any coding experience with https://JuniorIT.AI.
 
-#### Becoming a full stack developer without any coding experience with JuniorIT.AI.
+### JuniorIT.AI - Student project template
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) by command below
 
